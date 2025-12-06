@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+DevOps Engineer with 4 years of experience building secure CI/CD pipelines, automating cloud and infrastructure<br>workflows, and managing large-scale distributed systems across AWS, Kubernetes, and OpenStack. Strong background in In<br>frastructure-as-Code (Terraform, Ansible, Helm), container orchestration, monitoring platforms, and security automation<br>integrated directly into the SDLC. Skilled in Python and Bash for tooling, automation, and platform optimisation, with additional<br>experience in Java-based backend and API environments. Known for a curious, analytical, and proactive mindset—<br>comfortable owning reliability, troubleshooting complex systems, and driving continuous improvement in modern<br>engineering teams. Experienced working in Agile/Scrum and SAFe environments, collaborating closely with cross-functional<br>teams while contributing to both technical delivery and overall team eﬀectiveness.<br>DevOps & Cloud Skills:<br>• Containerisation & Orchestration: Docker, Docker Compose, Docker Swarm, Kubernetes, OpenShift, Helm, HPA, Ingress,<br>Istio/Linkerd; container security (Trivy, Kubescape), image signing (Cosign), SBOM tools (Syft/Grype)<br>• Infrastructure as Code & Configuration: Terraform (AWS), CloudFormation, Ansible, Chef, Puppet, Vagrant; policy-as-code<br>(OPA/Gatekeeper, Kyverno); GitOps concepts<br>• CI/CD & DevSecOps Automation: Jenkins, GitHub Actions, GitLab CI, TFS, Travis CI; build/artifact tools: Nexus, Maven,<br>Gradle, Grunt; security automation: CI/CD security gates, automated vulnerability scanning, SAST/DAST (SonarQube,<br>OWASP ZAP), compliance-as-code, supply-chain security; pipeline optimisation, test automation integration<br>• Cloud Platforms & Services: AWS (EC2, S3, RDS, Lambda, IAM, CloudFormation, CodePipeline, CloudWatch, SNS/SQS, ECR,<br>ECS/EKS); OpenStack fundamentals; on-premise infrastructure deployments<br>• Monitoring, Observability & Logging: Zabbix, Prometheus, Grafana, Datadog, ELK Stack, Nagios; CloudWatch metrics,<br>centralised logging, alerting, SLI/SLO practices; Apache Flink monitoring; real-time data processing<br>• Security, Compliance & Identity: OWASP Top 10, IAM/RBAC; secrets management (HashiCorp Vault, SOPS, Sealed-<br>Secrets); CIS hardening, CSPM basics; AWS GuardDuty, Security Hub; Zero Trust fundamentals; API security (OAuth2/JWT)<br>• Networking, Storage & Messaging: VPCs, Security Groups, Load Balancers, Subnets, DNS (Route 53); AWS S3; Kafka,<br>RabbitMQ, SNS/SQS; network fundamentals (Netconf, SNMP, routing, switching, IP addressing); Any-Cast networking<br>• SRE / Reliability Engineering: SLIs/SLOs, runbooks, incident response, chaos engineering fundamentals; test automation<br>(unit, integration, Terratest, Kitchen-Terraform); toil reduction strategies<br>• Software Development & Platform Engineering: Spring Boot, OpenAPI, REST API design; Kotlin, Java, Python; backend &<br>API development; modernisation projects in corporate environments; critical infrastructure systems<br>• Front-end & Optional Skills: Angular, TypeScript, VueJS, React<br>• Data & BI Tools: Data modeling, metadata ingestion, data pipelines; BI tools: Tableau, MicroStrategy, Teradata; Apache<br>Flink, Spark<br>• MLOps / AI Support: Containerised AI workloads, model registry patterns (MLflow/Kubeflow), reproducible ML pipelines<br>• Version Control & Collaboration: Git, GitHub, GitLab, Bitbucket; Jira, Confluence, Slack; Agile/Scrum, SAFe; Scrum Master<br>experience<br>• Scripting & Programming: Python, Bash, PowerShell, Java, JavaScript
 
-<!--
-**satyender8929/Satyender8929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=satyender8929&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=satyender8929&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyender8929&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=satyender8929&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=satyender8929&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
