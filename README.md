@@ -1,5 +1,5 @@
 # 💫 About Me:
-DevOps Engineer with 4 years of experience building secure CI/CD pipelines, automating cloud and infrastructure<br>workflows, and managing large-scale distributed systems across AWS, Kubernetes, and OpenStack. Strong background in In<br>frastructure-as-Code (Terraform, Ansible, Helm), container orchestration, monitoring platforms, and security automation<br>integrated directly into the SDLC. Skilled in Python and Bash for tooling, automation, and platform optimisation, with additional<br>experience in Java-based backend and API environments. Known for a curious, analytical, and proactive mindset—<br>comfortable owning reliability, troubleshooting complex systems, and driving continuous improvement in modern<br>engineering teams. Experienced working in Agile/Scrum and SAFe environments, collaborating closely with cross-functional<br>teams while contributing to both technical delivery and overall team eﬀectiveness.
+Software Engineer
 
 
 # 💻 Tech Stack:
